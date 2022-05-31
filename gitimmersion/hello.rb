@@ -1,3 +1,3 @@
 # Default is World
-# Author: Jess Graham
+# Author: Jess Graham (jess@sample.com)
 puts "Hello, World"
