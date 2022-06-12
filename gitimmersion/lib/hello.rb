@@ -1,3 +1,5 @@
 # Default is World
 # Author: Jess Graham 
-puts "Hello, World"
+name = ARGV.first || "World"
+
+puts "Hello, #{name}!"
